@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bfnhwhp.github.io/sitemap.xml
